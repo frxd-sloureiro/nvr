@@ -32,4 +32,4 @@ Após a obtenção do arquivo docker-compose.yml, copie-o para o seu servidor/m�
 ```bash
 docker compose up -d
 ```
-(Obs.: Após a execução do comando fique atento, pois o usuário e senha padrão da instalação aparecerão nos logs/terminal.)
+***(Obs.: Após a execução do comando fique atento, pois o usuário e senha padrão da instalação aparecerão nos logs/terminal.)***
