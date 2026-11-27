@@ -58,4 +58,13 @@ Com todas as câmeras devidamente configuradas é possível observar o vídeo de
 
 ## Demonstração de Uso
 
-### WIP
+### Clipe 1
+<video width="auto" height="auto" controls>
+  <source src="52.27.mp4" type="video/mp4">
+</video>
+
+
+### Clipe 2
+<video width="auto" height="auto" controls>
+  <source src="45.07.mp4" type="video/mp4">
+</video>
