@@ -59,12 +59,7 @@ Com todas as câmeras devidamente configuradas é possível observar o vídeo de
 ## Demonstração de Uso
 
 ### Clipe 1
-<video width="auto" height="auto" controls>
-  <source src="52.27.mp4" type="video/mp4">
-</video>
-
+https://github.com/user-attachments/assets/014c0a8b-5265-4c75-81a5-c8568542efa8
 
 ### Clipe 2
-<video width="auto" height="auto" controls>
-  <source src="45.07.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/3f0e9830-5d57-470a-a71e-2e883eba40dc
